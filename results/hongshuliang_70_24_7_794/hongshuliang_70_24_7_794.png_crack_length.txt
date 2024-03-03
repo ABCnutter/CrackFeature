@@ -1,0 +1,4 @@
+1_crack_connected_domain_average_length: 254.8
+2_crack_connected_domain_average_length: 15.600000000000001
+3_crack_connected_domain_average_length: 254.8
+total figure crack average length: 177.0666666666667

@@ -1,0 +1,4 @@
+1_crack_connected_domain_average_width: 18.8231847053285
+2_crack_connected_domain_average_width: 15.286174866512246
+3_crack_connected_domain_average_width: 13.205235110701041
+total figure crack average width: 15.771531560847263

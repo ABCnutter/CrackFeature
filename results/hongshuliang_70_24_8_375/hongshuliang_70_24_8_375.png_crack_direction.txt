@@ -1,0 +1,4 @@
+1_crack_connected_domain_average_direction:0.9493295353994579 --- 对应的度分秒为：54° 23' 33.27268381518252"
+2_crack_connected_domain_average_direction:1.1566195103347787 --- 对应的度分秒为：66° 16' 9.89920081460923"
+3_crack_connected_domain_average_direction:1.198054113866771 --- 对应的度分秒为：68° 38' 36.39967026628142"
+total figure crack average direction: 1.1013343865336693 --- 对应的度分秒为：63° 6' 6.523851632049968

@@ -1,0 +1,4 @@
+1_crack_connected_domain_average_area: 5157.88
+2_crack_connected_domain_average_area: 520.5200000000001
+3_crack_connected_domain_average_area: 3866.7200000000003
+total figure crack average area: 3181.706666666667

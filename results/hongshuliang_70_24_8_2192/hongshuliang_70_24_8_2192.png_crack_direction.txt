@@ -1,0 +1,2 @@
+1_crack_connected_domain_average_direction:0.045532985984437904 --- 对应的度分秒为：2° 36' 31.852531931838826"
+total figure crack average direction: 0.045532985984437904 --- 对应的度分秒为：2° 36' 31.852531931838826
