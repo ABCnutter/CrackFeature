@@ -1,4 +1,4 @@
 使用*计算机视觉相关算法*提取裂缝的**骨架（矢量化）、轮廓**【支持提前修复断裂裂缝】，以及<u>几何特征参数</u>（**长度、宽度、面积和主要方向**）。主要流程以及相关算法如下：
 
-![image-20240303174759537](E:\CS\work\CrackFeature\README.assets\image-20240303174759537.png)
 
+![image-20240303174759537](https://github.com/ABCnutter/CrackFeature/assets/91233657/00ac8bdb-b932-44e5-9008-d433dc47888d)
